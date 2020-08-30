@@ -1,10 +1,10 @@
 # <a href="https://www.linkedin.com/in/paulo-clemente-7073657b/">Paulo Clemente</a> :smiley:
  
  <a href="https://twitter.com/pauloclementte">
-  <img align="left" alt="Ashwani's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Paulo's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/paulo-clemente-7073657b/">
-  <img align="left" alt="Paulo's Linedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Paulo's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/pauloclemente">
   <img align="left" alt="Paulo's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
