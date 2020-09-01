@@ -19,7 +19,7 @@ Contributer and Student at Rocketseat | Expert Content Editor |
 Enthusiastic Programmer  | Deep Learning | Javascript Delevoper
 
 ## About :sunglasses:
-Currently working as a Expert Content Editor in Rocketseat plataform. Passionate about Data Science, Machine Learning and Karatê :heart:. Also, have experience in 
+Currently working as a Expert Content Editor in Rocketseat plataform. Passionate about Data Science, Machine Learning and Karate :heart:. Also, have experience in 
 video edition.
 
 ## Communities 🛸
