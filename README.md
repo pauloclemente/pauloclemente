@@ -31,7 +31,7 @@ Contributer at [Rocketseat Plataform](https://rocketseat.com.br)
   <summary><b>Technologies :fire:</b></summary>
   </br>
       <ul>
-        <li>Mobile application development using <b>React Native (Typescript)</b>.</li>
+        <li>Web application development using <b>ReactJS (Typescript)</b>.</li>
         <li>JavaScript.</li>
         <li>TypeScript.</li>
         <li>Competitive Programming.</li>
