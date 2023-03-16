@@ -24,7 +24,7 @@ mechanical Engineering and Karate :heart:. Also, have experience in
 video edition.
 
 ## Communities 🛸
-Contributer at [Rocketseat Plataform](https://rocketseat.com.br)
+Contributer at [Rocketseat Platform](https://rocketseat.com.br)
 
 
 <details>
