@@ -15,11 +15,11 @@
 <br/>
 <br/>
 
-Contributer and Student at Rocketseat | Expert Content Editor | 
-Enthusiastic Programmer  | Deep Learning | Javascript Delevoper
+Contributer and Student at Rocketseat | Expert Content | 
+Enthusiastic Programmer  | Deep Learning | Frontend Developer
 
 ## About :sunglasses:
-Currently working as Developer in Rocketseat plataform. Passionate about Web Development, 
+Currently working as Frontend Developer in Rocketseat platform. Passionate about Web Development, 
 mechanical Engineering and Karate :heart:. Also, have experience in 
 video edition.
 
